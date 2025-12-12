@@ -11,13 +11,13 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
+API_ID = int(environ.get('API_ID', '20919625'))
+API_HASH = environ.get('API_HASH', '40168846bf06f4ff443f0f7a4182bf8d')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/8e130244dbe6b01127271-544b89982764a817f2.jpg https://graph.org/file/0eaee353096c2e61a1220-7ce2857a5f3361224b.jpg https://graph.org/file/b0ab4ec001d10c7f58664-c1815d32d67d942c80.jpg https://graph.org/file/64e96e9811d531214ec29-ad3865ad3118d6f868.jpg https://graph.org/file/c67c762ef903d51f0d615-64cccb470096f83390.jpg https://graph.org/file/9ca3443de0e8679248b92-3f8893c6a6d9a10c16.jpg https://graph.org/file/a958297eab2f782fc2315-04c9b66b3801752690.jpg')).split()
 
 
 # Admins & Users
@@ -196,4 +196,5 @@ else:
 # Don't Remove Credit @VJ_Bots
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
