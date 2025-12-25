@@ -22,7 +22,7 @@ class script(object):
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>KOYEB</a> 
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
@@ -244,9 +244,18 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<blockquote><b>📂𝐅ɪʟᴇ 𝐍ᴀᴍᴇ : </b> <b><a href="https://t.me/south_hindi_movies09">{file_name}</a></b>
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>📂𝐅ɪʟᴇ 𝐒ɪᴢᴇ : </b> <u>{file_size}</u>
+<b>
+╭─────── • ◆ • ───────╮
+🔅 𝐌ᴀɪɴ 𝐇ᴜʙ : <a href="https://t.me/south_hindi_movies09">𝐓ᴏᴏ 𝐇ᴇʀᴇ</a> 🔅
+╰─────── • ◆ • ───────╯
+
+============== • ✠ • ==============
+▫️   𝐂ʜᴀɴɴᴇʟ : @Spportgroup89
+▫️   𝐑ᴇǫᴜᴇsᴛ : @Spportgroup89
+============== • ✠ • ==============</b></blockquote>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -752,4 +761,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
